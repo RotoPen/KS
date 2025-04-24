@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/rotopen.swc-tabs-fork-m9v0he4x",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iQQDwFl2zF0dLSFSrdXl --open"
+  },
+  "dependencies": {
+    "lit-element": "^3.0.0"
+  }
+}
